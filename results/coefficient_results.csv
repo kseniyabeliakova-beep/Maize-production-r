@@ -1,0 +1,7 @@
+"model","standard_errors","term","estimate","standard_error","t_statistic","p_value","conf_low","conf_high","interval_method","n"
+"Linear","HC0 robust","(Intercept)",-0.793973468779403,0.788290627171115,-1.00720906910778,0.316761662543452,-2.33902309803479,0.751076160475981,"Normal critical value 1.96, as in original script",86
+"Linear","HC0 robust","K",1.0141535977974,0.376865995162963,2.6910191177075,0.00861224435944724,0.275496247277988,1.7528109483168,"Normal critical value 1.96, as in original script",86
+"Linear","HC0 robust","L",0.0387620494220318,0.0113644280235095,3.41082273052766,0.00100263082424621,0.0164877704959532,0.0610363283481104,"Normal critical value 1.96, as in original script",86
+"Log-log","Conventional OLS","(Intercept)",-1.81107253836242,0.480480338822234,-3.76929583175405,0.000305404150507255,-2.76672860744478,-0.855416469280065,"confint() with residual-degrees-of-freedom t critical value",86
+"Log-log","Conventional OLS","log(K)",0.647376668122252,0.121026079074647,5.3490675156299,7.66606132870214e-07,0.40666066449048,0.888092671754025,"confint() with residual-degrees-of-freedom t critical value",86
+"Log-log","Conventional OLS","log(L)",0.565361514840653,0.12345820118395,4.57937592981996,1.62315680428734e-05,0.319808118153002,0.810914911528304,"confint() with residual-degrees-of-freedom t critical value",86
